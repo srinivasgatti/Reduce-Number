@@ -1,3 +1,7 @@
 {
-    "name": "reducenumber/reducenumber"
+    "name": "reducenumber/reducenumber",
+    "autoload": {
+        "psr-0": {"src/"}
+    },
+    "homepage": "http://github.com/srinivasgatti/Reduce-Number",
 }

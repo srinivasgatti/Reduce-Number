@@ -1,7 +1,12 @@
 {
     "name": "reducenumber/reducenumber",
-    "autoload": {
-        "psr-0": {"src/"}
-    },
-    "homepage": "http://github.com/srinivasgatti/Reduce-Number",
+    "description": "Inital plugin the Composer/Packagist community",
+    "license": "None",
+    "authors": [
+        {
+            "name": "Srinivas Gatti"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }

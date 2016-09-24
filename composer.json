@@ -6,7 +6,5 @@
         {
             "name": "Srinivas Gatti"
         }
-    ],
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    ]
 }
